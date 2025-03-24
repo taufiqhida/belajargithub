@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Belajar PHP</h1>
-    <p>Selamat datang di <b>Belajar PHP</b></p>
+    <p>Selamat datang di <b>Belajar PHP Muhamad Taufiq</b></p>
     <p>Muhamad Taufiq</p>
     <?php
         echo "Hello World!";
