@@ -12,5 +12,6 @@
     <?php
         echo "Hello World!";
     ?>
+    <p>Belajar PHP -Faza</p>
 </body>
 </html>
